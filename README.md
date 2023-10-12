@@ -44,6 +44,10 @@ The Star Wars App uses several third-party libraries to enhance functionality:
 
 ## Screens and Features
 
+### ScreenShots
+<h3>The working app on both platforms(IOS & Android)</h3>
+<img alt="App ScreenShots" src="https://i.imgur.com/ILAcxV3.png">
+
 ### HomeScreen
 
 - HomeScreen features a scrollable and paginated list of elements representing Star Wars characters.
@@ -75,42 +79,8 @@ The Star Wars App uses several third-party libraries to enhance functionality:
 
 The project follows a structured organization:
 
-Star-Wars-App/
-├── assets/
-│ ├── fonts/
-│ │ ├── StarJedi.ttf
-│ │ ├── StarJediRounded.ttf
-│ └── icons/
-│ ├── ...
-├── src/
-│ ├── actions/
-│ │ ├── characters.ts
-│ ├── components/
-│ │ ├── CharacterCard/
-│ │ │ ├── index.tsx
-│ │ ├── CharacterList/
-│ │ │ ├── index.tsx
-│ │ ├── FavoriteCounter/
-│ │ │ ├── index.tsx
-│ │ ├── Pagination/
-│ │ │ ├── index.tsx
-│ │ ├── Search/
-│ │ │ ├── index.tsx
-│ │ ├── TextInfo/
-│ │ │ ├── index.tsx
-│ ├── screens/
-│ │ ├── HomeScreen.tsx
-│ │ ├── CharacterDetailsScreen.tsx
-│ ├── store/
-│ │ ├── slices/
-│ │ │ ├── charactersSlice.ts
-│ │ │ ├── paginationSlice.ts
-│ │ ├── hooks.ts
-│ │ ├── root-reducer.ts
-│ │ ├── store.ts
-│ ├── types/
-│ │ ├── index.ts
-└── App.tsx
+<img alt="Project Structure" src="https://i.imgur.com/zZhYSCX.png">
+
 
 ## Getting Started
 
