@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/StarJedi.ttf",
+      "sha1": "795839dd1b9630949c56f447529140608bb894b7"
+    },
+    {
+      "path": "assets/fonts/StarJediRounded.ttf",
+      "sha1": "ad8ab0fcdabb21d3194c83cba41c0d4489bea02e"
+    }
+  ]
+}
