@@ -74,12 +74,13 @@ The Star Wars App uses several third-party libraries to enhance functionality:
 
 - The app performs API requests through `createAsyncThunk`.
 - The user interface (UI/UX) is designed to provide a user-friendly experience.
+- The beautiful architecture decomposition simplifies complex systems into clear and elegant structures.
 
 ## Project Structure
 
 The project follows a structured organization:
 
-<img alt="Project Structure" src="https://i.imgur.com/zZhYSCX.png">
+<img alt="Project Structure" src="https://i.imgur.com/lqw0gZE.png">
 
 
 ## Getting Started
